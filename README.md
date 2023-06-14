@@ -6,7 +6,6 @@ Human action recognition has attracted considerable research attention in the fi
 
 ```
 python3 webcam_Hands_Detect.py
-
 ```
 
 
