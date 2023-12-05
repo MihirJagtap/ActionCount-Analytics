@@ -1,6 +1,6 @@
 # Multiperson-Hands-raised-detection
 
-Human action recognition has attracted considerable research attention in the field of computer vision, especially for classroom environments [1].
+Human action recognition has attracted considerable research attention in the field of computer vision, especially for crowded environments [1].
 
 # To run
 
