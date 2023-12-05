@@ -3,7 +3,7 @@
 Human action recognition has attracted considerable research attention in the field of computer vision, especially for crowded environments [1].
 
 # To run
-For linux - 
+For Linux - 
 ```
 cd code
 python3 webcam_Hands_Detect.py
