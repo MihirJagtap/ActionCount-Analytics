@@ -1,4 +1,4 @@
-# Multiperson-Hands-raised-detection
+# Multiperson-pose-detection
 
 Human action recognition has attracted considerable research attention in the field of computer vision, especially for crowded environments [1].
 
