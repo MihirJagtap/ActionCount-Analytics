@@ -3,6 +3,8 @@
 
 Human action recognition has attracted considerable research attention in the field of computer vision, especially for crowded environments [1].
 
+![alt text](https://github.com/MihirJagtap/ActionCount-Analytics/blob/main/pic.jpeg)
+
 # To run
 For Linux/Windows Bash - 
 ```
